@@ -1,5 +1,5 @@
 {
-  "name": "@idonotknowwhoiam/prettier-config",
+  "name": "@idonotknowwhoweare/prettier-config",
   "version": "1.0.0",
   "description": "",
   "main": "./.prettierrc.json",
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "idonotknowwhoiam",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/idonotknowwhoiam/prettier-config.git"
