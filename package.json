@@ -11,8 +11,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "idonotknowwhoiam",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idonotknowwhoiam/prettier-config.git"
+  },
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "^3.7.1",
     "prettier": "^2.8.1",
